@@ -1,0 +1,16 @@
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.exe
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.deps.json
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.runtimeconfig.json
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.runtimeconfig.dev.json
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.dll
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\ref\servidor_http_simple.dll
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\bin\Debug\net5.0\servidor_http_simple.pdb
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.csproj.AssemblyReference.cache
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.AssemblyInfoInputs.cache
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.AssemblyInfo.cs
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.dll
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\ref\servidor_http_simple.dll
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.pdb
+C:\Users\Jorge\Downloads\14.Projetos\servidor_http_simple\obj\Debug\net5.0\servidor_http_simple.genruntimeconfig.cache

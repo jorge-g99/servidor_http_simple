@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "servidor_http_simple/1.0.0": {
+        "runtime": {
+          "servidor_http_simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "servidor_http_simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
